@@ -1,0 +1,43 @@
+Title: Sytem Requirment Specification(SRS) for Online Ticket Booking System
+
+Objective:
+
+The Online Ticket Booking System will be a standalone web-based application that interacts with users via a user interface. It will integrate with payment gateways for secure online transactions.
+
+User Classes and Characteristic:
+
+General Users: These are customers who visit the platform to search for mode of travel and book tickets.
+System Administrators: They manage the system, handle  updates, and user management.
+
+Operating Environment:
+
+The system will be developed as a web application accessible through modern web browsers on various devices, including desktops, laptops, tablets, and mobile phones.
+
+Functional Requirements:
+
+1 User Registration and Authentication
+
+Users should be able to create new accounts and authenticate themselves to access the system.
+User authentication should include password security measures.
+
+2 Application Management
+
+Administrators should be able to add, edit, and delete events.
+Events should have details such as title, description, date, time, boarding/unboarding stops, and available seats/tickets.
+
+3 Ticket Booking
+
+Users should be able to browse available tickets and mode of travel.
+Users should be able to select seats or tickets for mode of travel.
+Users should be able to add multiple tickets to their cart.
+Users should be able to proceed to checkout and make payments securely.
+Users should receive booking confirmation with a unique reference number.
+4 User Profile Management
+
+Users should be able to view and update their profile information.
+Users should be able to view their booking history.
+
+
+
+
+

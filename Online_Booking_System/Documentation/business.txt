@@ -1,0 +1,16 @@
+Business Entities:
+Administration/Management
+Customer
+vendors
+
+Operations:
+
+user registarion of both customer and vendor
+ticket search for perticular route.
+ticket booking
+secure payment
+ticket cancelling
+
+
+
+ 
